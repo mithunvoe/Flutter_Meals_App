@@ -1,7 +1,3 @@
 # meals_app
 
-A Flutter project.
-
-## Getting Started
-
-A learning project
+Download the app-release.apk file and install on your android device.
